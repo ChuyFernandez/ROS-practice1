@@ -1,0 +1,4 @@
+float64 measurement_metres      # request message
+---
+float64 measurement_feets       # response message
+bool success                    # response message

@@ -1,0 +1,6 @@
+practice_msgs/PoseOriginTarget pose_origin_target       # goal message
+---
+string result_message                                   # result message
+---
+geometry_msgs/Pose current_pose                         # feedback message
+

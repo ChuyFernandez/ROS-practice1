@@ -1,0 +1,9 @@
+version: "3"
+services:
+  ros_hello_world: 
+    # Colocar nombre de la imagen
+    image: chuy7/ros_hello_world:practice1
+    ports: 
+      - 10000:10000
+      - 5005:5005
+
